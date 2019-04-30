@@ -143,10 +143,10 @@
   #define TRIMS_GPIO_PIN_RVU            GPIO_Pin_12 // PJ.12
   #define TRIMS_GPIO_REG_RHR            GPIOD->IDR
   #define TRIMS_GPIO_PIN_RHR            GPIO_Pin_7  // PD.07
-  #define TRIMS_GPIO_REG_LSU            GPIOJ->IDR
-  #define TRIMS_GPIO_PIN_LSU            GPIO_Pin_8  // PJ.08
-  #define TRIMS_GPIO_REG_LSD            GPIOD->IDR
-  #define TRIMS_GPIO_PIN_LSD            GPIO_Pin_13 // PD.13
+  #define TRIMS_GPIO_REG_LSU            GPIOD->IDR
+  #define TRIMS_GPIO_PIN_LSU            GPIO_Pin_13 // PD.13
+  #define TRIMS_GPIO_REG_LSD            GPIOJ->IDR
+  #define TRIMS_GPIO_PIN_LSD            GPIO_Pin_8  // PJ.08
   #define TRIMS_GPIO_REG_RSU            GPIOB->IDR
   #define TRIMS_GPIO_PIN_RSU            GPIO_Pin_14 // PB.14
   #define TRIMS_GPIO_REG_RSD            GPIOB->IDR
